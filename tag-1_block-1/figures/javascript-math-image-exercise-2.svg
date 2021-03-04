@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:x="adobe:ns:meta/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="All_in_one"
+   data-name="All in one"
+   width="584"
+   height="538"
+   viewBox="0 0 584 538"
+   version="1.1"
+   sodipodi:docname="javascript-math-image-exercise-2.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="D:\OneDrive - UNSW\GitHub\Geodatenanalyse\tag-1_block-1\figures\javascript-math-image-exercise-2.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview196"
+     showgrid="false"
+     inkscape:zoom="1.7546468"
+     inkscape:cx="93.937824"
+     inkscape:cy="263.77563"
+     inkscape:window-x="-9"
+     inkscape:window-y="171"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="All_in_one" />
+  <metadata
+     id="metadata2">
+<?xpacket begin="ÿ" id="W5M0MpCehiHzreSzNTczkc9d"?>    <x:xmpmeta
+       x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+      <metadata>
+        <rdf:RDF>
+          <rdf:Description
+             rdf:about="" />
+          <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type
+               rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+          </cc:Work>
+        </rdf:RDF>
+      </metadata>
+    </x:xmpmeta>
+<?xpacket end="w"?>  </metadata>
+  <defs
+     id="defs17">
+    <style
+       id="style4">
+      .cls-1, .cls-10, .cls-14, .cls-8 {
+        fill: #634100;
+      }
+
+      .cls-1 {
+        stroke: #ffa800;
+        stroke-linejoin: round;
+        stroke-width: 1px;
+        filter: url(#filter);
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        font-size: 35.43px;
+      }
+
+      .cls-2 {
+        fill: #fefefe;
+      }
+
+      .cls-10, .cls-12, .cls-14, .cls-15, .cls-2, .cls-20, .cls-23, .cls-3, .cls-4, .cls-5, .cls-8 {
+        font-family: Roboto;
+      }
+
+      .cls-10, .cls-12, .cls-14, .cls-15, .cls-2, .cls-20, .cls-3, .cls-4, .cls-5, .cls-8 {
+        font-weight: 300;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #fffefe;
+      }
+
+      .cls-12, .cls-5 {
+        font-size: 25.4px;
+      }
+
+      .cls-16, .cls-5, .cls-9 {
+        fill: #a80bf7;
+      }
+
+      .cls-6 {
+        fill: #320474;
+      }
+
+      .cls-12, .cls-15, .cls-7 {
+        fill: #0600fe;
+      }
+
+      .cls-8 {
+        font-size: 30.48px;
+      }
+
+      .cls-10, .cls-11 {
+        font-size: 32.224px;
+      }
+
+      .cls-11 {
+        fill: #e60026;
+        font-weight: 700;
+      }
+
+      .cls-11, .cls-13, .cls-16 {
+        font-family: Tahoma;
+      }
+
+      .cls-13, .cls-20 {
+        font-size: 27.94px;
+      }
+
+      .cls-13, .cls-17, .cls-18, .cls-19 {
+        fill: #430066;
+      }
+
+      .cls-14, .cls-15, .cls-16 {
+        font-size: 15.24px;
+      }
+
+      .cls-17 {
+        stroke: #000;
+        stroke-width: 0.07px;
+        stroke-dasharray: 0.28 0.14;
+      }
+
+      .cls-17, .cls-18, .cls-22 {
+        fill-rule: evenodd;
+      }
+
+      .cls-20 {
+        fill: #590000;
+      }
+
+      .cls-21 {
+        font-size: 22.86px;
+      }
+
+      .cls-22 {
+        fill: #2f2f2f;
+      }
+
+      .cls-23 {
+        font-size: 11px;
+        fill: #404040;
+        text-anchor: middle;
+      }
+    </style>
+    <filter
+       id="filter"
+       x="29"
+       y="22"
+       width="226"
+       height="63"
+       filterUnits="userSpaceOnUse">
+      <feOffset
+         result="offset"
+         dx="2"
+         dy="3.464"
+         in="SourceAlpha"
+         id="feOffset6" />
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="2.236"
+         id="feGaussianBlur8" />
+      <feFlood
+         result="flood"
+         flood-opacity="0.78"
+         id="feFlood10" />
+      <feComposite
+         result="composite"
+         operator="in"
+         in2="blur"
+         id="feComposite12" />
+      <feBlend
+         result="blend"
+         in="SourceGraphic"
+         in2="composite"
+         id="feBlend14" />
+    </filter>
+  </defs>
+  <image
+     id="Layer_0"
+     data-name="Layer 0"
+     width="584"
+     height="538"
+     xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAkgAAAIaCAQAAABxUXrYAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAAHCAAABwgAc0Pm54AAAAHdElNRQfjBQ8LNi/iHx9nAAAG90lEQVR42u3UsQ3AIADAMIrU//9tB5i4gQz2BZnyrG+8A+C+f94uADgMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMgwJyDAkIMOQgAxDAjIMCcgwJCDDkIAMQwIyDAnIMCQgw5CADEMCMjbvKActryYGwwAAAABJRU5ErkJggg==" />
+  <g
+     style="fill:#808080;filter:url(#filter);fill-opacity:1;stroke:none"
+     id="g21">
+    <rect
+       id="rect"
+       class="cls-1"
+       x="32"
+       y="25"
+       width="216"
+       height="52"
+       style="stroke:none;filter:none;fill:#808080;fill-opacity:1" />
+  </g>
+  <use
+     xlink:href="#rect"
+     style="stroke: #ffa800; filter: none; fill: none"
+     id="use23" />
+  <g
+     id="All_numbers"
+     data-name="All numbers">
+    <text
+       id="_0"
+       data-name="0"
+       class="cls-2"
+       transform="translate(93.196 60.963) scale(0.733 0.717)">0</text>
+    <text
+       id="_1"
+       data-name="1"
+       class="cls-3"
+       transform="translate(66.196 60.963) scale(0.733 0.717)">1</text>
+    <text
+       id="_1-2"
+       data-name="1"
+       class="cls-3"
+       transform="translate(40.197 60.963) scale(0.733 0.717)">1</text>
+    <text
+       id="_1-3"
+       data-name="1"
+       class="cls-3"
+       transform="translate(120.197 60.963) scale(0.733 0.717)">1</text>
+    <text
+       id="_1-4"
+       data-name="1"
+       class="cls-3"
+       transform="translate(146.197 60.963) scale(0.733 0.717)">1</text>
+    <text
+       id="_0-2"
+       data-name="0"
+       class="cls-4"
+       transform="translate(171.197 60.963) scale(0.733 0.717)">0</text>
+    <text
+       id="_1-5"
+       data-name="1"
+       class="cls-3"
+       transform="translate(198.197 60.963) scale(0.733 0.717)">1</text>
+    <text
+       id="_1-6"
+       data-name="1"
+       class="cls-4"
+       transform="translate(221.196 60.963) scale(0.733 0.717)">1</text>
+    <text
+       id="_1_x_2_1_x_1_1"
+       data-name="1 x 2  =  1 x 1  =  1"
+       class="cls-5"
+       x="306"
+       y="131">1<tspan
+   class="cls-6"
+   id="tspan33"> x </tspan>
+2<tspan
+   id="tspan35">  =  </tspan>
+1<tspan
+   id="tspan37"> x </tspan>
+1<tspan
+   id="tspan41">  =  <tspan
+   class="cls-7"
+   id="tspan39">1</tspan>
+</tspan>
+</text>
+    <text
+       id="_1_x_2_1_x_2_2"
+       data-name="1 x 2  =  1 x 2  =  2"
+       class="cls-5"
+       x="306"
+       y="166">1<tspan
+   class="cls-6"
+   id="tspan44"> x </tspan>
+2<tspan
+   id="tspan46">  =  </tspan>
+1<tspan
+   id="tspan48"> x </tspan>
+2<tspan
+   id="tspan52">  =  <tspan
+   class="cls-7"
+   id="tspan50">2</tspan>
+</tspan>
+</text>
+    <text
+       id="_0_x_2_0_x_4_0"
+       data-name="0 x 2  =  0 x 4  =  0"
+       class="cls-5"
+       x="306"
+       y="201">0<tspan
+   class="cls-6"
+   id="tspan55"> x </tspan>
+2<tspan
+   id="tspan57">  =  </tspan>
+0<tspan
+   id="tspan59"> x </tspan>
+4<tspan
+   id="tspan63">  =  <tspan
+   class="cls-7"
+   id="tspan61">0</tspan>
+</tspan>
+</text>
+    <text
+       id="_1_x_2_1_x_8_8"
+       data-name="1 x 2  =  1 x 8  =  8"
+       class="cls-5"
+       x="306"
+       y="236">1<tspan
+   class="cls-6"
+   id="tspan66"> x </tspan>
+2<tspan
+   id="tspan68">  =  </tspan>
+1<tspan
+   id="tspan70"> x </tspan>
+8<tspan
+   id="tspan74">  =  <tspan
+   class="cls-7"
+   id="tspan72">8</tspan>
+</tspan>
+</text>
+    <text
+       id="_1_x_2_1_x_16_16"
+       data-name="1 x 2  =  1 x 16  =  16"
+       class="cls-5"
+       x="306"
+       y="270">1<tspan
+   class="cls-6"
+   id="tspan77"> x </tspan>
+2<tspan
+   id="tspan79">  =  </tspan>
+1<tspan
+   id="tspan81"> x </tspan>
+16<tspan
+   id="tspan85">  =  <tspan
+   class="cls-7"
+   id="tspan83">16</tspan>
+</tspan>
+</text>
+    <text
+       id="_0_x_2_0_x_32_0"
+       data-name="0 x 2  =  0 x 32  =  0"
+       class="cls-5"
+       x="306"
+       y="306">0<tspan
+   class="cls-6"
+   id="tspan88"> x </tspan>
+2<tspan
+   id="tspan90">  =  </tspan>
+0<tspan
+   id="tspan92"> x </tspan>
+32<tspan
+   id="tspan96">  =  <tspan
+   class="cls-7"
+   id="tspan94">0</tspan>
+</tspan>
+</text>
+    <text
+       id="_1_x_2_1_x_64_64"
+       data-name="1 x 2  =  1 x 64  =  64"
+       class="cls-5"
+       x="306"
+       y="343">1<tspan
+   class="cls-6"
+   id="tspan99"> x </tspan>
+2<tspan
+   id="tspan101">  =  </tspan>
+1<tspan
+   id="tspan103"> x </tspan>
+64<tspan
+   id="tspan107">  =  <tspan
+   class="cls-7"
+   id="tspan105">64</tspan>
+</tspan>
+</text>
+    <text
+       id="_1_x_2_1_x_128_128"
+       data-name="1 x 2  =  1 x 128  =  128"
+       class="cls-5"
+       x="306"
+       y="380">1<tspan
+   class="cls-6"
+   id="tspan110"> x </tspan>
+2<tspan
+   id="tspan112">  =  </tspan>
+1<tspan
+   id="tspan114"> x </tspan>
+128<tspan
+   id="tspan118">  =  <tspan
+   class="cls-7"
+   id="tspan116">128</tspan>
+</tspan>
+</text>
+    <text
+       id="_1_2_8_16_64_128_219"
+       data-name="1 + 2 + 8 + 16 + 64 + 128 = 219"
+       class="cls-8"
+       x="115"
+       y="444">1<tspan
+   class="cls-9"
+   id="tspan125">
+  <tspan
+     class="cls-7"
+     id="tspan123">+<tspan
+   class="cls-6"
+   id="tspan121" />
+</tspan>
+</tspan>
+2<tspan
+   id="tspan131">
+  <tspan
+     class="cls-7"
+     id="tspan129">+<tspan
+   class="cls-6"
+   id="tspan127" />
+</tspan>
+</tspan>
+8<tspan
+   id="tspan135">
+  <tspan
+     class="cls-7"
+     id="tspan133">+</tspan>
+</tspan>
+16<tspan
+   id="tspan139">
+  <tspan
+     class="cls-7"
+     id="tspan137">+</tspan>
+</tspan>
+64<tspan
+   id="tspan143">
+  <tspan
+     class="cls-7"
+     id="tspan141">+</tspan>
+</tspan>
+128<tspan
+   class="cls-6"
+   id="tspan147">
+  <tspan
+     class="cls-7"
+     id="tspan145">=</tspan>
+</tspan>
+219</text>
+    <text
+       id="_11011011"
+       data-name="11011011"
+       class="cls-10"
+       transform="translate(193.461 495.015) scale(0.788)">11011011</text>
+    <text
+       id="_"
+       data-name="="
+       class="cls-11"
+       x="326.667"
+       y="497.667">=</text>
+    <text
+       id="_219"
+       data-name="219"
+       class="cls-12"
+       x="367.667"
+       y="495.333">219</text>
+    <text
+       id="_2"
+       data-name="("
+       class="cls-13"
+       x="175"
+       y="495">(</text>
+    <text
+       id="_3"
+       data-name="("
+       class="cls-13"
+       x="354"
+       y="495">(</text>
+    <text
+       id="_copy_3"
+       data-name="( copy 3"
+       class="cls-13"
+       transform="matrix(-1, 0, 0, 1, 423.696, 495)">(</text>
+    <text
+       id="_2-2"
+       data-name="2"
+       class="cls-14"
+       x="321"
+       y="511">2</text>
+    <text
+       id="_10"
+       data-name="10"
+       class="cls-15"
+       x="423"
+       y="511">10</text>
+    <text
+       id="_copy"
+       data-name="( copy"
+       class="cls-13"
+       transform="matrix(-1, 0, 0, 1, 324.696, 495)">(</text>
+    <text
+       id="_0-3"
+       data-name="0"
+       class="cls-16"
+       x="359.333"
+       y="113">0</text>
+    <text
+       id="_1-7"
+       data-name="1"
+       class="cls-16"
+       x="359.333"
+       y="151">1</text>
+    <text
+       id="_2-3"
+       data-name="2"
+       class="cls-16"
+       x="359.333"
+       y="186">2</text>
+    <text
+       id="_3-2"
+       data-name="3"
+       class="cls-16"
+       x="359.333"
+       y="221">3</text>
+    <text
+       id="_4"
+       data-name="4"
+       class="cls-16"
+       x="359.333"
+       y="256">4</text>
+    <text
+       id="_5"
+       data-name="5"
+       class="cls-16"
+       x="359.333"
+       y="292">5</text>
+    <text
+       id="_6"
+       data-name="6"
+       class="cls-16"
+       x="359.333"
+       y="329">6</text>
+    <text
+       id="_7"
+       data-name="7"
+       class="cls-16"
+       x="359.333"
+       y="366">7</text>
+    <path
+       class="cls-17"
+       d="M273,114l19,8-19,8,8-8Z"
+       id="path167" />
+    <path
+       id="Shape_8_copy"
+       data-name="Shape 8 copy"
+       class="cls-17"
+       d="M273,148l19,8-19,8,8-8Z" />
+    <path
+       id="Shape_8_copy_2"
+       data-name="Shape 8 copy 2"
+       class="cls-17"
+       d="M273,181l19,8-19,8,8-8Z" />
+    <path
+       id="Shape_8_copy_3"
+       data-name="Shape 8 copy 3"
+       class="cls-17"
+       d="M273,216l19,8-19,8,8-8Z" />
+    <path
+       id="Shape_8_copy_4"
+       data-name="Shape 8 copy 4"
+       class="cls-17"
+       d="M273,252l19,8-19,8,8-8Z" />
+    <path
+       id="Shape_8_copy_5"
+       data-name="Shape 8 copy 5"
+       class="cls-17"
+       d="M273,289l19,8-19,8,8-8Z" />
+    <path
+       id="Shape_8_copy_6"
+       data-name="Shape 8 copy 6"
+       class="cls-17"
+       d="M273,325l19,8-19,8,8-8Z" />
+    <path
+       id="Shape_8_copy_7"
+       data-name="Shape 8 copy 7"
+       class="cls-17"
+       d="M273,362l19,8-19,8,8-8Z" />
+  </g>
+  <g
+     id="g185">
+    <path
+       class="cls-18"
+       d="M228.5,80.5h2v42h-2v-42Zm1,43v-2h59v2h-59Z"
+       id="path177" />
+    <rect
+       class="cls-19"
+       x="205.5"
+       y="80.5"
+       width="2"
+       height="75"
+       id="rect179" />
+    <path
+       class="cls-18"
+       d="M206.5,156.5v-2h82v2h-82Z"
+       id="path181" />
+    <path
+       class="cls-18"
+       d="M178.5,80.5h2v108h-2V80.5Zm1,109v-2h109v2h-109Zm-25-109h2v143h-2V80.5Zm1,144v-2h133v2h-133Zm-27-144h2v179h-2V80.5Zm1,180v-2h159v2h-159Zm-29-180h2v216h-2V80.5Zm1,217v-2h187v2h-187Zm-27-217h2v252h-2V80.5Zm1,253v-2h213v2H75.5Zm-28-253h2v290h-2V80.5Zm1,291v-2h240v2H48.5Z"
+       id="path183" />
+  </g>
+  <text
+     id="Binary_to_Decimal_"
+     data-name="Binary   to   Decimal     "
+     class="cls-20"
+     x="296"
+     y="62"
+     style="fill:#000000;">Binary   to   Decimal<tspan
+   class="cls-21"
+   id="tspan187"
+   style="fill:#000000;" />
+</text>
+</svg>

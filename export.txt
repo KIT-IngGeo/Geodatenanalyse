@@ -1,0 +1,2 @@
+conda activate geo
+conda env export --no-builds -f D:\geodatenanalyse.yml

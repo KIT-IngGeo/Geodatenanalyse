@@ -1,0 +1,2 @@
+conda activate geo
+jupyter notebook --notebook-dir="D:\OneDrive - UNSW\GitHub\Geodatenanalyse"
