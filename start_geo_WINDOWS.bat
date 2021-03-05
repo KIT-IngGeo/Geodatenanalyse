@@ -6,8 +6,10 @@ echo "Starting environment geo ..."
  
 if exist %USERPROFILE%\Anaconda3\Scripts\activate.bat (call %USERPROFILE%\anaconda3\Scripts\activate.bat) else (call C:\ProgramData\Anaconda3\Scripts\activate.bat)
 
-call conda activate geo
-call cd %~dp0
-call jupyter notebook
-
-pause
+call conda activate geo && (
+	call cd %~dp0
+	call jupyter notebook
+	pause
+) || (
+  echo "Error: Please add Anaconda to the environment variables!"
+)
