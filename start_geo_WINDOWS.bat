@@ -4,7 +4,7 @@ echo "Starting environment geo ..."
 
 @echo ~dp0= %~dp0
  
-if exist %USERPROFILE%\Anaconda3\Scripts\activate.bat (call %USERPROFILE%\anaconda3\Scripts\activate.bat) else (call C:\ProgramData\Anaconda3\Scripts\activate.bat)
+if exist "%USERPROFILE%"\Anaconda3\Scripts\activate.bat (call "%USERPROFILE%"\anaconda3\Scripts\activate.bat) else (call C:\ProgramData\Anaconda3\Scripts\activate.bat)
 
 call conda activate geo && (
 	call cd %~dp0
