@@ -1,0 +1,5 @@
+conda install -c anaconda mpmath sympy xarray netcdf4
+
+conda install -c conda-forge shapely cartopy descartes contextily salib pykrige ruptures geopandas jupyterlab
+
+pip install scikit-gstat

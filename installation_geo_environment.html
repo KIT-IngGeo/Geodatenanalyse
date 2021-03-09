@@ -14367,40 +14367,31 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="F&#252;r-Windows">F&#252;r Windows<a class="anchor-link" href="#F&#252;r-Windows">&#182;</a></h3><p>1 - Add the right installation channel:</p>
-<p><code>conda config --prepend channels conda-forge</code></p>
-<p>2 - Create a new environment called "geo" and install <em>geopandas</em> and <em>jupyterlab</em>:</p>
-<p><code>conda create -n geo  python=3.7 --strict-channel-priority geopandas jupyterlab</code></p>
-<p>3 - Activate the new environment:</p>
-<p><code>conda activate geo</code></p>
-<p>4 - Add the user to the kernel:</p>
-<p><code>python -m ipykernel install --user</code></p>
-<p><em>ACHTUNG</em>: Wenn das nicht funktioniert, dann wird eine andere Möglichkeit <a href="https://geoffboeing.com/2014/09/using-geopandas-windows/">hier beschrieben</a></p>
+<h3 id="Windows">Windows<a class="anchor-link" href="#Windows">&#182;</a></h3><p>Das Programm <em>Anaconda Prompt</em> öffnen</p>
+<h3 id="Linux/MacOS">Linux/MacOS<a class="anchor-link" href="#Linux/MacOS">&#182;</a></h3><p>Ein beliebiges Terminal aufmachen</p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="F&#252;r-MacOS-oder-Linux">F&#252;r MacOS oder Linux<a class="anchor-link" href="#F&#252;r-MacOS-oder-Linux">&#182;</a></h3><p>1 - Create a new environment called "geo" and install <em>geopandas</em> and <em>jupyterlab</em>:</p>
+<h3 id="F&#252;r-alle-Betriebssysteme">F&#252;r alle Betriebssysteme<a class="anchor-link" href="#F&#252;r-alle-Betriebssysteme">&#182;</a></h3><p>1 - Eine neue Umgebung namens "geo" erstellen:</p>
 <p><code>conda create -n geo python=3.7</code></p>
 <p>2 - Activate the new environment:</p>
 <p><code>conda activate geo</code></p>
-<p>3 - Add the user to the kernel:</p>
+<p>3a - Pakete installieren:</p>
+<p><code>conda install -c anaconda ipykernel mpmath sympy xarray netcdf4</code></p>
+<p>3b - Weitere Pakete installieren:</p>
+<p><code>conda install -c conda-forge shapely cartopy descartes contextily salib pykrige ruptures geopandas jupyterlab</code></p>
+<p>3c - Pakete über pip installieren:</p>
+<p><code>pip install scikit-gstat</code></p>
+<p>5 - Add the user to the kernel:</p>
 <p><code>python -m ipykernel install --user</code></p>
 
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="F&#252;r-alle-Betriebssysteme">F&#252;r alle Betriebssysteme<a class="anchor-link" href="#F&#252;r-alle-Betriebssysteme">&#182;</a></h3><p>Weitere benötigte Pakete für alle Betriebssysteme:</p>
-<p><code>conda install mpmath sympy shapely cartopy xarray descartes contextily salib pykrige ruptures netcdf4</code></p>
-<p><code>pip install scikit-gstat</code></p>
-
-</div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Ein Test, ob vor allem <em>GeoPandas</em> funktioniert:</p>
+<h2 id="Umgebung-testen">Umgebung testen<a class="anchor-link" href="#Umgebung-testen">&#182;</a></h2><p>Ein Test, ob vor allem <em>GeoPandas</em> funktioniert:</p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">

@@ -1,10 +1,10 @@
 #!/bin/bash
 
-echo "Start environment geo ..."
+echo "Starting environment geo ..."
 
 echo $PWD
 
-source ~/anaconda3/etc/profile.d/conda.sh
+source /opt/anaconda3/etc/profile.d/conda.sh
 
 conda activate geo
 
