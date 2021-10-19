@@ -8,6 +8,6 @@
 
 ![alt text](geodaten.png "Geodaten Beispiel")
 
-Für allgemeine Kursinformationen siehe [KIT Campus Management für Studierende](https://campus.studium.kit.edu/ev/AZwVrKlTRJWesOLkhZyxMQ/de)
+Für allgemeine Kursinformationen siehe [KIT Campus Management für Studierende](https://campus.studium.kit.edu/ev/FgXyiXwaSaiwTcYrha3lZQ/de)
 
-Für detaillierte Kursinformationen siehe [KIT ILIAS](https://ilias.studium.kit.edu/goto.php?target=crs_1262934&client_id=produktiv)
+Für detaillierte Kursinformationen siehe [KIT ILIAS](https://ilias.studium.kit.edu/goto.php?target=crs_1639556&client_id=produktiv)
